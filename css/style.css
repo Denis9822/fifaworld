@@ -1033,7 +1033,7 @@ input:focus {
         font-size: 30px;
     }
     .main_column2_sponsors_item {
-        width: 175px;
+        width: 160px;
     }
     .main_column2_sponsors_item3 {
         width: 155px;
@@ -1082,6 +1082,7 @@ input:focus {
     }
     .main {
         background-color: #7B1836;
+        padding-bottom: 50px;
     }
     .main_column2_h2_img img {
         width: 100%;
@@ -1096,5 +1097,25 @@ input:focus {
     }
     .header_lang span {
         font-size: 15px;
+    }
+    .footer_bottom_copyright {
+        text-align: center;
+    }
+    .groups {
+        margin-top: 70px !important;
+    }
+    header {
+        backdrop-filter: initial;
+        padding: 10px 0;
+        justify-content: center;
+    }
+    .header_lang {
+        margin-left: initial;
+    }
+    .header_lang_menu {
+        width: 83px;
+    }
+    .header_lang_menu_w {
+        width: 83px;
     }
 }
